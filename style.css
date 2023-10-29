@@ -1,0 +1,41 @@
+/* p{
+    color: red;
+}
+p{
+    color: green;
+}
+p{color: blue;} */
+/* specificity */
+/* *{
+    color: red;
+}
+p{
+    color: green;
+}
+p#intro{
+    color: blue;
+} */
+/* important */
+/* p{
+    color: green !important;
+}
+p{
+    color: blue;
+} */
+/* inheritance */
+/* div{
+    color: blue;
+}
+p{
+    font-family: cursive;
+    color: inherit;
+} */
+/* body {
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+    padding: 10px;
+border: 1px solid red;}
+    .page {
+        border: 1px solid #665544;
+        background-color: #efefef; 
+        padding: inherit;} */
